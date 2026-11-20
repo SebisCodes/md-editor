@@ -1,0 +1,17 @@
+# Editors and systems
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
+
+# Python (tests)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local test output
+tests/*.png
+tests/*.log
